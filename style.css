@@ -1,0 +1,32 @@
+/* button */
+.btn:not(.nav-btns button){
+    background-color: white;
+    color: black;
+}
+
+/* Navbar */
+.navbar{
+    box-shadow: 0 3px 9px 3px rgba(0, 0, 0, 0.422);
+}
+/* header */
+#header{
+    background: url(/Img/iPhone-13-Pro-Max-vs-iPhone-12-Pro-Max.jpg) top/cover no-repeat;
+}
+
+/* collection */
+
+.collection-img span{
+    top: 20px;
+    right: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+
+.product-img{
+    width: 100px;
+}
+
+.removeProduct{
+    margin-top: 40px;
+}
